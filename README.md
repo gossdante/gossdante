@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dante Goss.</h1>
+<h1 align="center">Hi 👋🏿, I'm Dante Goss.</h1>
 <h3 align="center">I'm a Sports Medicine PhD student working in programming, statistics, and biomechanics. Committed to improving biometric data capture and generating useful insights from data.</h3>
 
-- 🔭 I’m currently working on **quantifying how step-rate changes walking.**
+- ⏰ In my PhD I'm studying how step-rate and gait speed interact with the metabolic and biomechanical cost of walking. My goal is to develop an intervention for individuals with knee osteoarthritis to walk at faster speeds with less pain.
+
+- 🔭 I’m currently working on a few side projects including **devloping an elo score model for brazilian jiu jitsu competition and seeing how physiologic indicators of stress from my apple watch change leading up to a research deadline.**
 
 - 🌱 I’m currently learning **Scikit-Learn**
 
@@ -9,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Using MCMC to estimate brazilian jiu jitsu matches.**
 
-- 👨‍💻 All of my projects are available at [https://dantegoss.com](https://dantegoss.com)
+- 👨‍💻 All of my projects are available here on Github, with some key projects detailed at [https://dantegoss.com](https://dantegoss.com)
 
 - 💬 Ask me about **Brazilian jiu jitsu**
 
